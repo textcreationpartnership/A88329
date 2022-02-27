@@ -1,0 +1,1253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the Common-wealth of Englands navie at sea, in their expedition in May, 1653. Under the command of the Right Honourable Col: Richard Deane, and Col: George Monke, esquires, generals and admirals. Together with the names of all the commanders of the said fleet, and the number of men and guns which every ship carried, at the memorable fight on the 2 and 3 of June, 1653. in which through Gods blessing on the said fleet, they took and destroyed between 20 and 30 Dutch ships of war, and also took 1350 prisoners, with very little losse on our part; and pursued the Dutch to their own harbours. Also a distinction of part of those ships (by the letter P in the margent) which have been taken prizes, and are now in the service of the Common-wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88329</idno>
+            <idno type="STC">Wing L2417</idno>
+            <idno type="STC">Thomason 669.f.17[34]</idno>
+            <idno type="STC">ESTC R211629</idno>
+            <idno type="EEBO-CITATION">99870339</idno>
+            <idno type="PROQUEST">99870339</idno>
+            <idno type="VID">163284</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163284)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f17[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the Common-wealth of Englands navie at sea, in their expedition in May, 1653. Under the command of the Right Honourable Col: Richard Deane, and Col: George Monke, esquires, generals and admirals. Together with the names of all the commanders of the said fleet, and the number of men and guns which every ship carried, at the memorable fight on the 2 and 3 of June, 1653. in which through Gods blessing on the said fleet, they took and destroyed between 20 and 30 Dutch ships of war, and also took 1350 prisoners, with very little losse on our part; and pursued the Dutch to their own harbours. Also a distinction of part of those ships (by the letter P in the margent) which have been taken prizes, and are now in the service of the Common-wealth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons, and are to be sould at his house in Aldersgate-street, and by Tho: Jenner at the South-entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also issued as part of: The common-wealths great ship commonly called the Soveraigne of the seas, built in the yeare, 1637.</note>
+                  <note>Annotation on Thomason copy: "July. 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Naval operations --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:163284:1" rendition="simple:additions"/>
+            <head>A LIST of the Common-wealth of <hi>Englands</hi> Navie at Sea, in their Expedition in <hi>May,</hi> 1653. Under the Command of the Right Honourable Col: <hi>Richard Deane,</hi> and Col: <hi>George Monke,</hi> Eſquires, Generals and Admirals. Together with the Names of all the Commanders of the ſaid Fleet, and the number of Men and Guns which every Ship carried, at that memorable Fight on the 2 and 3 of <hi>June,</hi> 1653. in which through Gods bleſſing on the ſaid Fleet, they took and deſtroyed between 20 and 30 Dutch Ships of War, and alſo took 1350 Priſo<g ref="char:EOLhyphen"/>ners, with very little loſſe on our part; and purſued the <hi>Dutch</hi> to their own Harbours. Alſo a diſtinction of part of thoſe Ships (by the letter P in the Margent) which have been taken Prizes, and are now in the Service of the <hi>Common-wealth.</hi>
+            </head>
+            <p>
+               <table>
+                  <head>THE FIRST SQUADRON.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="5">
+                        <hi>The Red Standard and Flagge, under the Squadronall Command of the Generalls above expreſſed.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Ships Names.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Men.</cell>
+                     <cell>Guns.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">The Reſolution</cell>
+                     <cell>
+                        <hi>The Generals</hi>
+                     </cell>
+                     <cell>550</cell>
+                     <cell>88</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Worceſter Frigot</cell>
+                     <cell>
+                        <hi>George Dakins,</hi> Capt.</cell>
+                     <cell>220</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Adviſe Frigot</cell>
+                     <cell>
+                        <hi>Jer: Smith,</hi> Capt.</cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Diamond Frigot</cell>
+                     <cell>
+                        <hi>William Hill</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Saphire Frigot</cell>
+                     <cell>
+                        <hi>Nicholas Heaton.</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Marmaduke</cell>
+                     <cell>
+                        <hi>Edward Blagg</hi>
+                     </cell>
+                     <cell>460</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Pelican</cell>
+                     <cell>
+                        <hi>Peter Motham</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Mearmaid</cell>
+                     <cell>
+                        <hi>John King</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Goulden Fleece</cell>
+                     <cell>
+                        <hi>Nic: Foſter</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Loyalty</cell>
+                     <cell>
+                        <hi>John Limbry</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Society</cell>
+                     <cell>
+                        <hi>Nic: Lucas</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Malaga Marchant</cell>
+                     <cell>
+                        <hi>Henry Collins</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Martin</cell>
+                     <cell>
+                        <hi>John Veſſy</hi>
+                     </cell>
+                     <cell>90</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell rows="3">Fireſhips</cell>
+                     <cell>Fox</cell>
+                     <cell>
+                        <hi>—Cornelius</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Fortune</cell>
+                     <cell>
+                        <hi>Humphry Morris</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Renowne.</cell>
+                     <cell>
+                        <hi>James Salmon</hi>
+                     </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="5">
+                        <hi>The Vice-Admirals Diviſion of the Generals Squadron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Triumph</cell>
+                     <cell>
+                        <hi>James Pecock,</hi> Vice Adm:</cell>
+                     <cell>350</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Lawrell Frigot</cell>
+                     <cell>
+                        <hi>John Stoake,</hi> Capt.</cell>
+                     <cell>200</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Adventure Frigot</cell>
+                     <cell>
+                        <hi>Robert Nickson</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Providence Frigot</cell>
+                     <cell>
+                        <hi>John Pearce</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Beare</cell>
+                     <cell>
+                        <hi>Francis Kerby</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Hearts eaſe</cell>
+                     <cell>
+                        <hi>Thomas Weight</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Hound</cell>
+                     <cell>
+                        <hi>Jonah Hide</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Anne and Joyce</cell>
+                     <cell>
+                        <hi>William Pile</hi>
+                     </cell>
+                     <cell>119</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">London</cell>
+                     <cell>
+                        <hi>Arthur Browne</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Hanniball</cell>
+                     <cell>
+                        <hi>William Hadduck</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Mary Prize</cell>
+                     <cell>
+                        <hi>Henry Maddiſon</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Thomas and Wil:</cell>
+                     <cell>
+                        <hi>John Jefferſon</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="5">
+                        <hi>The Rear-Admirals Diviſion of the Generals Squadron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Speaker Frigot</cell>
+                     <cell>
+                        <hi>Samuel Hewet,</hi> Rear Adm.</cell>
+                     <cell>300</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Suſſex Frigot</cell>
+                     <cell>
+                        <hi>Roger Cuttaine,</hi> Capt.</cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Guiney Frigot</cell>
+                     <cell>
+                        <hi>Edmond Curtice</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Tyger</cell>
+                     <cell>
+                        <hi>Gabriel Sanders</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Violet</cell>
+                     <cell>
+                        <hi>Henry Southwood</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">Sophia</cell>
+                     <cell>
+                        <hi>Robert Kerby</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Falmouth Frigot</cell>
+                     <cell>
+                        <hi>John Jeffreys</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell cols="2">4 Siſters</cell>
+                     <cell>
+                        <hi>Robert Becke</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Hambr: Merchant</cell>
+                     <cell>
+                        <hi>William Jeſſell</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">Phanix</cell>
+                     <cell>
+                        <hi>Henry Eaden</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>34</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>The Generals Squadron conſiſting of</hi>
+                     </cell>
+                     <cell>38</cell>
+                     <cell>
+                        <hi>Ships.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mannaged by</hi>
+                     </cell>
+                     <cell>6169.</cell>
+                     <cell>
+                        <hi>Men.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mounted with</hi>
+                     </cell>
+                     <cell>1440</cell>
+                     <cell>
+                        <hi>Guns.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <head>THE SECOND SQUADRON.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="4">
+                        <hi>The Engliſh Colours, and White Flaggs, committed to the Conduct of</hi> William Penn, <hi>Ebſ; Vice-Admirall of</hi> England, <hi>and Admirall of the White Flagg.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Ships.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Men</cell>
+                     <cell>Guns.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>James</cell>
+                     <cell>
+                        <hi>William Pen, <abbr>Eſq</abbr>
+                        </hi> Admi:</cell>
+                     <cell>360</cell>
+                     <cell>66</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Lion</cell>
+                     <cell>
+                        <hi>John Lambert,</hi> Capt.</cell>
+                     <cell>220</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Ruby Frigot</cell>
+                     <cell>
+                        <hi>Robert Sanders</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Aſſiſtance Frigot</cell>
+                     <cell>
+                        <hi>William Criſpin</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Foreſight Frigot</cell>
+                     <cell>
+                        <hi>Richard Stayner</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Portſmouth Frig:</cell>
+                     <cell>
+                        <hi>Robert Doenford</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Anne Piercy</cell>
+                     <cell>
+                        <hi>Thomas Hare</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Peter</cell>
+                     <cell>
+                        <hi>John Littleton</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Exchange</cell>
+                     <cell>
+                        <hi>Henry Tidman</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Merlin</cell>
+                     <cell>
+                        <hi>George Crapnell</hi>
+                     </cell>
+                     <cell>090</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Rich: and Martha</cell>
+                     <cell>
+                        <hi>Evestace Smith</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Sara</cell>
+                     <cell>
+                        <hi>Francis Steward</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Lixa Merchant</cell>
+                     <cell>
+                        <hi>Simon Baily</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>
+                        <hi>Fireſhip,</hi> Falcion</cell>
+                     <cell> </cell>
+                     <cell>030</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="4">
+                        <hi>The Vice-Amirals Diviſion of the Vice-Admirals Squadron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Victory</cell>
+                     <cell>
+                        <hi>Lionell Lane,</hi> Vice Adm:</cell>
+                     <cell>300</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Centurion Frigot</cell>
+                     <cell>
+                        <hi>Walter Wood,</hi> Capt.</cell>
+                     <cell>200</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Expedition Frigot</cell>
+                     <cell>
+                        <hi>Tho: Vollis</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Gilt flower</cell>
+                     <cell>
+                        <hi>John Hayward</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Middle borow</cell>
+                     <cell>
+                        <hi>Tho: Withing</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Raven</cell>
+                     <cell>
+                        <hi>Robert Taylor</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Exchange</cell>
+                     <cell>
+                        <hi>Jeafrey Dare</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Globe</cell>
+                     <cell>
+                        <hi>Robert Coleman</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Prudent Mary</cell>
+                     <cell>
+                        <hi>John Taylor</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Tho: and Lucie</cell>
+                     <cell>
+                        <hi>Andrew Rand</hi>
+                     </cell>
+                     <cell>125</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="4">
+                        <hi>The Reare-Admirals Diviſion of the Vice-Admirals Squadron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Andrew</cell>
+                     <cell>
+                        <hi>Tho: Graves,</hi> Rear Adm:</cell>
+                     <cell>360</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Aſſurance Frigot</cell>
+                     <cell>
+                        <hi>Phillip Holland,</hi> Capt.</cell>
+                     <cell>160</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Crowne</cell>
+                     <cell>
+                        <hi>—Thomſon,</hi> Capt.</cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Dutches</cell>
+                     <cell>
+                        <hi>Richard Seafeild</hi>
+                     </cell>
+                     <cell>090</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Princes Maria</cell>
+                     <cell>
+                        <hi>Saite Hanly</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Waterhound</cell>
+                     <cell>
+                        <hi>Gyles Shelly</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Pearle</cell>
+                     <cell>
+                        <hi>James Cadman</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Reformation</cell>
+                     <cell>
+                        <hi>Anthony Erning</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Induſtry</cell>
+                     <cell>
+                        <hi>Ben: Salmon</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>30</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>The Vice-Admirals Squadron conſiſting of</hi>
+                     </cell>
+                     <cell>33</cell>
+                     <cell>
+                        <hi>Ships.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mannaged by</hi>
+                     </cell>
+                     <cell>5085</cell>
+                     <cell>
+                        <hi>Men.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mounted with</hi>
+                     </cell>
+                     <cell>1189</cell>
+                     <cell>
+                        <hi>Guns.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <head>THE THIRD SQUADRON.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="4">
+                        <hi>The Blew Flaggs, Commanded by</hi> John Lawſon, <hi>
+                           <abbr>Eſq</abbr> Rear-Admirall of</hi> England, <hi>and Admirall of the Blew Flagge.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Ships.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Men.</cell>
+                     <cell>Guns.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>George</cell>
+                     <cell>
+                        <hi>John Lawſon, <abbr>Eſq</abbr>
+                        </hi> Adm.</cell>
+                     <cell>350</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Kentiſh Frigot</cell>
+                     <cell>
+                        <hi>Jac: Renolds,</hi> Capt.</cell>
+                     <cell>180</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Great Preſident</cell>
+                     <cell>
+                        <hi>Francis Park</hi>
+                     </cell>
+                     <cell>180</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Noneſuch Frigot</cell>
+                     <cell>
+                        <hi>Tho: Penroſe</hi>
+                     </cell>
+                     <cell>170</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Succeſſe</cell>
+                     <cell>
+                        <hi>William Kendall</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Welcome</cell>
+                     <cell>
+                        <hi>Tho: Harman</hi>
+                     </cell>
+                     <cell>200</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Oake</cell>
+                     <cell>
+                        <hi>John Edwin</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Brazill Friggot</cell>
+                     <cell>
+                        <hi>Tho: Heath</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Eaſtl: Merchant</cell>
+                     <cell>
+                        <hi>John Woulters</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Adventure</cell>
+                     <cell>
+                        <hi>Edward Greene</hi>
+                     </cell>
+                     <cell>160</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Samaritan</cell>
+                     <cell>
+                        <hi>Shadrach Blake</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Hunter, <hi>Fireſhip,</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="4">
+                        <hi>The Vice-Admirals Diviſion of the Rear-Admirals Squadron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Vant Guard</cell>
+                     <cell>
+                        <hi>Joſeph Jorden,</hi> Vice Ad.</cell>
+                     <cell>390</cell>
+                     <cell>56</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Entrance</cell>
+                     <cell>
+                        <hi>Richard Nubery,</hi> Capt.</cell>
+                     <cell>200</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Dragon</cell>
+                     <cell>
+                        <hi>John Seaman</hi>
+                     </cell>
+                     <cell>260</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Convert</cell>
+                     <cell>
+                        <hi>Phillip Githings</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Paul</cell>
+                     <cell>
+                        <hi>Anthony Spatchurt</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Gift</cell>
+                     <cell>
+                        <hi>Tho: Salmon</hi>
+                     </cell>
+                     <cell>130</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Creſſent Frigot</cell>
+                     <cell>
+                        <hi>Tho: Thorowood</hi>
+                     </cell>
+                     <cell>115</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Samuel Taboat</cell>
+                     <cell>
+                        <hi>Joſeph Ames</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Benjamin</cell>
+                     <cell>
+                        <hi>Robert Sparks</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>King Fardinando</cell>
+                     <cell>
+                        <hi>Richard Paine</hi>
+                     </cell>
+                     <cell>140</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Roebuck</cell>
+                     <cell>
+                        <hi>Henry Fenn</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="4">
+                        <hi>The Rear-Admirals Diviſion of the Rear-Admirals Squadron.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Rainbow</cell>
+                     <cell>
+                        <hi>William Godſon,</hi> Rear Ad.</cell>
+                     <cell>300</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Convertine Frigot</cell>
+                     <cell>
+                        <hi>Anthony Joyne,</hi> Capt.</cell>
+                     <cell>210</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Amity Frigot</cell>
+                     <cell>
+                        <hi>Henry Pack</hi>
+                     </cell>
+                     <cell>150</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Dolphin</cell>
+                     <cell>
+                        <hi>Robert Davis</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Armes of Holland</cell>
+                     <cell>
+                        <hi>Francis Mardrig</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Tulip</cell>
+                     <cell>
+                        <hi>Joſeph Cubbit</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Jonathan</cell>
+                     <cell>
+                        <hi>Robert Graves</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Dragoneare</cell>
+                     <cell>
+                        <hi>Edward Smith</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>William and John</cell>
+                     <cell>
+                        <hi>Nath: Jeſſon</hi>
+                     </cell>
+                     <cell>120</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Nichodemus Frig.</cell>
+                     <cell>
+                        <hi>William Ledgant</hi>
+                     </cell>
+                     <cell>40</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>P</cell>
+                     <cell>Bloſſome</cell>
+                     <cell>
+                        <hi>Nath: Cock</hi>
+                     </cell>
+                     <cell>110</cell>
+                     <cell>30</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>The Rear-Admirals Squadron conſiſting of</hi>
+                     </cell>
+                     <cell>34</cell>
+                     <cell>
+                        <hi>Ships.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mannaged by</hi>
+                     </cell>
+                     <cell>5015</cell>
+                     <cell>
+                        <hi>Men.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mounted with</hi>
+                     </cell>
+                     <cell>1189</cell>
+                     <cell>
+                        <hi>Guns.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell>
+                        <hi>The Totall of Ships in the Fleet</hi>
+                     </cell>
+                     <cell>105</cell>
+                     <cell rows="3">Beſides theſe, there have come to the Fleet, and with Generall <hi>Blake,</hi> and other Ships, above twenty, ſince the draft of this Liſt, whoſe names, and number of Guns and Men, cannot be given at preſent.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Totall of Men</hi>
+                     </cell>
+                     <cell>16269</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Totall of Guns</hi>
+                     </cell>
+                     <cell>3840</cell>
+                  </row>
+                  <row>
+                     <cell cols="3">
+                        <hi>Licenſed and Entred according to Order.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>M. Simmons,</hi> and are to be ſould at his houſe in <hi>Alderſgate-</hi>ſtreet, and by <hi>Tho: Jenner</hi> at the South-entrance of the Royall EXCHANGE. 1653.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
